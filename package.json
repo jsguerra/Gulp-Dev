@@ -1,0 +1,31 @@
+{
+  "name": "minimalist-wp-theme",
+  "version": "1.0.0",
+  "description": "Personal development project.",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsguerra/minimalist-wp-theme.git"
+  },
+  "author": "Jose Guerra",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/jsguerra/minimalist-wp-theme.git/issues"
+  },
+  "homepage": "https://github.com/jsguerra/minimalist-wp-theme.git#readme",
+  "devDependencies": {
+    "autoprefixer": "^8.4.1",
+    "browser-sync": "^2.24.4",
+    "gulp": "^3.9.1",
+    "gulp-image": "^4.3.0",
+    "gulp-jshint": "^2.1.0",
+    "gulp-newer": "^1.4.0",
+    "gulp-postcss": "^7.0.1",
+    "gulp-sass": "^3.2.1",
+    "gulp-sourcemaps": "^2.6.4",
+    "jshint": "^2.9.5"
+  }
+}
